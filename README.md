@@ -12,3 +12,5 @@ Refrences and by:
 
 - https://medium.com/@phylypo/react-native-simple-chat-with-firebase-and-giftedchat-f7dbdff2883a
 
+### `Author`
+*  Kevin Travis
